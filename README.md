@@ -1,1 +1,2 @@
-### CS349 FRONTEND
+### CS349 FRONTEND FALL2019
+### Ottergram
